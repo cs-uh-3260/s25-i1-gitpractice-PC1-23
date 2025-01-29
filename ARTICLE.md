@@ -5,4 +5,4 @@
 
 Proof Reading:
 
-Article checked for typos
+Article is free of typos
