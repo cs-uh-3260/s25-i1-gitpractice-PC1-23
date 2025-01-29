@@ -4,4 +4,4 @@ I found this article on software engineering to be interesting because it gave a
 
 Proof Reading:
 
-Article checked for typos
+Article is free of typos
