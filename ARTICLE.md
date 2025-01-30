@@ -6,3 +6,7 @@
 Proof Reading:
 
 Article is free of typos
+
+_I found it interesting reading about the job-finding process in 2021 for software engineering as it is drastically different today in 2025._
+**Comment left by Ariba Tariq**
+
