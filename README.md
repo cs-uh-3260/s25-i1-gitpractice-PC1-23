@@ -5,4 +5,4 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 ## Link to merged pull request:
-
+https://github.com/cs-uh-3260/s25-i1-gitpractice-EnockMagara
